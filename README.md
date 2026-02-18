@@ -1,72 +1,59 @@
-CHM CMSHHs wifi creditnails 
-CMSsMHH	Identity: cmsgoogle
-Password: CM$G00gl3wire<	WPA-EAP	false
+<div align="center">
+  <img src="https://via.placeholder.com/120x120/0ea5e9/000000?text=Axion" alt="Axion Logo" width="120" height="120" style="border-radius: 50%; margin-bottom: 1rem;" />
 
-Server link to d4_5frtTM _Winning_ discord.
-//join discord [https://discord.gg/fUnVusGD](https://discord.gg/fUnVusGD)
+  <h1>Axion</h1>
+  <p>AI-powered web developer from Charlotte, NC</p>
+  <p>Building modern, high-converting websites for small businesses</p>
 
-OLD VER OF d4_5frtTM KA:
-```js
-// === Killaura ===
-    let killauraEnabled = false;
-    let killauraInterval = null;
-    let killauraDelay = 100;
-    let attackRange = 7;
+  <div>
+    <a href="https://axion-dev.up.railway.app">
+      <img src="https://img.shields.io/badge/Live%20Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
+    </a>
+    <a href="https://github.com/zxc-mrt1n-o4/axion-website">
+      <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:gamexoficall@gmail.com">
+      <img src="https://img.shields.io/badge/Email-contact@axion.dev-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
 
-    function startKillaura() {
-        if (killauraInterval) return;
-        console.log("[Killaura] Waiting for SDK...");
-        killauraInterval = setInterval(() => {
-            if (!window.SDK || !SDK.noa) return;
+  <br/>
 
-            const playerPos = SDK.noa.getPosition(1);
-            if (!playerPos) return;
+  <p>
+    <strong>Tech stack:</strong> Next.js 15 • TypeScript • Tailwind CSS • shadcn/ui • Framer Motion
+  </p>
 
-            const playerList = SDK.noa.playerList || [];
-            playerList.forEach(player => {
-                if (!player || player === 1) return;
-                let targetPos = SDK.noa.getPosition(player);
-                if (!targetPos) return;
+  <p>
+    <strong>Currently available for:</strong> small business websites in Charlotte, NC (and remote)
+  </p>
 
-                const dx = targetPos[0] - playerPos[0];
-                const dy = targetPos[1] - playerPos[1];
-                const dz = targetPos[2] - playerPos[2];
-                const distance = Math.sqrt(dx * dx + dy * dy + dz * dz);
+  <br/>
 
-                if (distance <= attackRange) {
-                    const lookPos = normalizeVector([dx, dy, dz]);
-                    try {
-                        SDK.noa.doAttack(lookPos, player.toString(), "BodyMesh");
-                        SDK.noa.getHeldItem(1)?.trySwingBlock?.();
-                        SDK.noa.getMoveState(1)?.setArmsAreSwinging?.();
-                    } catch (err) {
-                        console.error("[Killaura] Attack error:", err);
-                    }
-                }
-            });
-        }, killauraDelay);
-    }
+  <a href="https://axion-dev.up.railway.app/contact">
+    <img src="https://img.shields.io/badge/Book%20a%2015-min%20call-0ea5e9?style=for-the-badge&logo=cal.com&logoColor=white" alt="Book a call">
+  </a>
+</div>
 
-    function stopKillaura() {
-        if (killauraInterval) {
-            clearInterval(killauraInterval);
-            killauraInterval = null;
-        }
-    }
+---
 
-    function normalizeVector(vec) {
-        const length = Math.sqrt(vec[0] * vec[0] + vec[1] * vec[1] + vec[2] * vec[2]);
-        return length === 0 ? [0, 0, 0] : [vec[0] / length, vec[1] / length, vec[2] / length];
-    }
+### Why small businesses choose Axion
 
-    panel.addButton("Toggle Killaura", () => {
-        killauraEnabled = !killauraEnabled;
-        if (killauraEnabled) {
-            startKillaura();
-            alert("Killaura Enabled");
-        } else {
-            stopKillaura();
-            alert("Killaura Disabled");
-        }
-    });
-```
+- 3–5× faster delivery thanks to AI-augmented workflows  
+- 40%+ average cost savings vs traditional agencies  
+- Production-ready websites with Lighthouse 95+ scores  
+- Local focus: Charlotte, North Carolina  
+
+### Selected projects
+
+- **Appliance Repair Business** — +60% inquiries, -40% hosting costs  
+- **Hair Salon Booking System** — 85% online bookings increase  
+- **Auto Repair Shop** — 47 new clients in 3 weeks  
+
+→ [View full case studies →](https://axion-dev.up.railway.app/projects)
+
+### Quick links
+
+- [Live portfolio](https://axion-dev.up.railway.app)  
+- [About me](https://axion-dev.up.railway.app/about)  
+- [Contact & book a call](https://axion-dev.up.railway.app/contact)  
+- [GitHub repositories](https://github.com/zxc-mrt1n-o4?tab=repositories)

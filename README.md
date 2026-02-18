@@ -30,7 +30,7 @@
   <br/>
 
   <a href="https://axion-dev.up.railway.app/contact">
-    <img src="https://img.shields.io/badge/Book%20a%2015%2Dmin%20call-0ea5e9?style=for-the-badge&logo=cal.com&logoColor=white" alt="Book a call">
+    <img src="https://img.shields.io/badge/Book%20a%2015-min%20call-black?style=for-the-badge&logo=cal.com&logoColor=silver&labelColor=black" alt="Book a call">
   </a>
 </div>
 

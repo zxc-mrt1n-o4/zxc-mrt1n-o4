@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="mailto:gamexoficall@gmail.com">
-      <img src="https://img.shields.io/badge/Email-contact@axion.dev-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-gamexoficall@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </div>
 

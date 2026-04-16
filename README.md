@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/120x120/0ea5e9/000000?text=Axion" alt="Axion Logo" width="120" height="120" style="border-radius: 50%; margin-bottom: 1rem;" />
+  <img src="https://axion-dev.up.railway.app/favicon.svg" alt="Axion Logo" width="120" height="120" style="border-radius: 50%; margin-bottom: 1rem;" />
 
   <h1>Axion</h1>
   <p>AI-powered web developer from Charlotte, NC</p>

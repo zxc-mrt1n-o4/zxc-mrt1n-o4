@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://axion-dev.up.railway.app/favicon.svg" alt="Axion Logo" width="120" height="120" style="border-radius: 50%; margin-bottom: 1rem;" />
 
   <h1>Axion</h1>
   <p>Web developer from Charlotte, NC</p>

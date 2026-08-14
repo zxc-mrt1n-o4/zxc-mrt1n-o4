@@ -2,8 +2,8 @@
   <img src="https://axion-dev.up.railway.app/favicon.svg" alt="Axion Logo" width="120" height="120" style="border-radius: 50%; margin-bottom: 1rem;" />
 
   <h1>Axion</h1>
-  <p>AI-powered web developer from Charlotte, NC</p>
-  <p>Building modern, high-converting websites for small businesses</p>
+  <p>Web developer from Charlotte, NC</p>
+  <p>Building modern, high-converting websites for small peopleses</p>
 
   <div>
     <a href="https://axion-dev.up.railway.app">
@@ -24,7 +24,7 @@
   </p>
 
   <p>
-    <strong>Currently available for:</strong> small business websites in Charlotte, NC (and remote)
+    <strong>Currently available for:</strong> any websites in Charlotte, NC (and remote)
   </p>
 
   <br/>
@@ -36,11 +36,11 @@
 
 ---
 
-### Why small businesses choose Axion
+### Why youy choose Axion
 
-- 3–5× faster delivery thanks to AI-augmented workflows  
-- 40%+ average cost savings vs traditional agencies  
-- Production-ready websites with Lighthouse 95+ scores  
+- 3–5× faster delivery thanks to AI-augmented workflows (PS WERE NOT A VIBECODERS SPARE US)  
+- 40%+ average cost savings vs traditional agencies
+- Production-ready websites with Lighthouse 90+ scores  
 - Local focus: Charlotte, North Carolina  
 
 ### Selected projects
@@ -49,11 +49,8 @@
 - **Hair Salon Booking System** — 85% online bookings increase  
 - **Auto Repair Shop** — 47 new clients in 3 weeks  
 
-→ [View full case studies →](https://axion-dev.up.railway.app/projects)
+→ [View full case studies (website offline, dev afk)→](afk-dev)
 
 ### Quick links
 
-- [Live portfolio](https://axion-dev.up.railway.app)  
-- [About me](https://axion-dev.up.railway.app/about)  
-- [Contact & book a call](https://axion-dev.up.railway.app/contact)  
-- [GitHub repositories](https://github.com/zxc-mrt1n-o4?tab=repositories)
+Im afk for now.

@@ -5,9 +5,6 @@
   <p>Building modern, high-converting websites for small peopleses</p>
 
   <div>
-    <a href="https://axion-dev.up.railway.app">
-      <img src="https://img.shields.io/badge/Live%20Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
-    </a>
     <a href="https://github.com/zxc-mrt1n-o4/axion-website">
       <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
